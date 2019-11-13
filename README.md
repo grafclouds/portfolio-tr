@@ -202,8 +202,8 @@ Otomasyon = Güç, tüm BT İşlemlerinizi otomatikleştirmeye hazırız!
 ---
 
 #### 🏠 Adreslerimiz
-- [x] [Head Office (Turkey)](https://grafclouds.com) `Halkali Mrz. Mh. Kucukcekmece - Istanbul`
-- [x] [Branch Office (Germany)](https://grafclouds.com) `Schluchseestraße 67 13469 - Berlin`
+- [x] [Merkez Ofisimiz (Turkey)](https://grafclouds.com) `Halkali Mrz. Mh. Kucukcekmece - Istanbul`
+- [x] [Şubemiz (Germany)](https://grafclouds.com) `Schluchseestraße 67 13469 - Berlin`
 ---
 
                         ##         .
