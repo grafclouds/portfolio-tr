@@ -6,7 +6,7 @@
  * `+90 541 831 9252` [Türkiye, Teknik]
  * `+49 176 23703301` [Avrupa, Teknik]
  
-Formumuzu doldurarak [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) veya `info@grafclouds.com`'a
+[Formumuzu](https://goo.gl/forms/WNw97mYx4fRonjQl1) doldurarak veya `info@grafclouds.com`'a
 e-mail atarak bizimle iletişime geçebilirsiniz.
 
 ---
@@ -23,70 +23,70 @@ e-mail atarak bizimle iletişime geçebilirsiniz.
     * [Docker Fundamentals & Enterprise Operations with Kubernetes](Trainings.md#docker-fundamentals--ent-op-with-kubernetes)
     * [Securing the Cloud](Trainings.md#securing-the-cloud)
 
-:octocat: **[Organization & Resumes](#octocat-organization--resumes)**
+:octocat: **[Organizasyon & Özgeçmişler](#octocat-organization--resumes)**
   
-📋 **[References](#-some-references)**
+📋 **[Referanslarımız](#-some-references)**
 
-Our References and Completed Projects
+Referanslarımız ve Biten Projelerimiz
 
-🗿 **[Partners](#-technology-partners)**
+🗿 **[Ortaklarımız](#-technology-partners)**
 
-Our Partners
+Çözüm Ortaklarımız
    
 
-## What We Do?
-#### ☁️ Cloud Consultancy _(AWS, Azure, Google Cloud, VMware Cloud (VMC), RackSpace, BlueOcean, OVH)_
-Are you ready to relocate to the cloud without pain and pay less? 
-* **Cloud Lift & Shift (Amazon Web Services, Azure, Google Cloud)**
-    * Design Cloud Infrastructure (Hybrid + With Different Vendors)
-    * Cloud Modeling (IaaS, PaaS, SaaS)
-    * Migrate Legacy Applications / Infrastructure to Cloud
-    * Build Cloud Networks, Virtual Networks (VPC, Elastic IP, ALB, ELB)
-    * Build Site-to-Site VPN, IP Design, BGP Anouncements
-    * Build Cloud Storage Area (S3, EBS, Azure Blob, EFS), Storage Gateways
-    * Backup to Cloud, Disaster Recovery, Avalibity Zones, FailOver Sites
-* **Cloud Optimisations**
-    * Traffic and Campain Management, AutoScale, Capacity Management
-    * Performance Analysis, Shrink to Grow
-    * Convert On-demand to Reserved Instances, Forecast Follow
-    * Spot Management (Instance Bidding)
-    * Resource Analysis, Cost Reduce
-* **Cloud Automation**
-    * Infrastructure as a Code (GitOps)
-    * Cloud Automation with Ansible, Chef, Saltstack, Terraform
-    * Auto Scale (Scheduled, With Load), Auto Destroy (Cost Reduce), Auto Deploy
-    * Auto Recover (Failure Detection, Auto Restart)
-* **Cloud Monitoring (Uptrends & VictorOps)**
-    * Monitor Infrastructure 7/24 with Cloud Tools
-    * On Call Management with Bots
-    * Collobration with Slack, Skype, Jira
-* **Cloud Security**
-    * Hiding the Cloud (Akamai, CloudFlare)
-    * Security Rules Checks, BPA
-    * Traffic Separation with Content Distribution (CDN)
-    * GeoLocation Restrictions (GRPR Compliances)
-    * Advanced Securing with Cloud WAF
-    * Certificate Management, SSL Offload on Load Balancers
-    * DOS Protection
+## Ne Yaparız?
+#### ☁️ Bulut Danışmanlığı _(AWS, Azure, Google Cloud, VMware Cloud (VMC), RackSpace, BlueOcean, OVH)_
+Acı çekmeden buluta taşınmaya ve daha az ödeme yapmaya hazır mısınız? 
+* **Bulut Lift & Shift (Amazon Web Services, Azure, Google Cloud)**
+    * Bulut Tasarım Altyapısı (Hybrid + With Different Vendors)
+    * Bulut Modellemesi (IaaS, PaaS, SaaS)
+    * Eski Sistem Uygulamalarını Geçirme / Bulut için Altyapı
+    * Bulut Ağları Oluşturma, Sanal Ağlar (VPC, Elastic IP, ALB, ELB)
+    * Site-to-Site VPN Kurulumu, IP Planlaması, BGP Bildirimleri
+    * Bulut Depolama Alanı (S3, EBS, Azure Blob, EFS), Depolama Geçitleri
+    * Bulutta Yedek, Afet&Felaket Kurtarma, Kullanılabilir Bölgeler, FailOver Sites
+* **Bulut Optimizasyonları**
+    * Trafik ve Harekat Yönetimi, AutoScale, Kapasite Yönetimi
+    * Performans analizi, Büyüme için Küçültme
+    * İsteğe Bağlı Ayrılmış Instance'lara Dönüştürme, Tahmin İzleme
+    * Spot Yönetimi (Instance Teklif Verme)
+    * Kaynak Analizi, Maliyet Azaltma
+* **Bulut Otomasyonu**
+    * Kod Olarak Altyapı (GitOps)
+    * Ansible, Chef, Saltstack, Terraform ile Bulut Otomasyonu
+    * Oto-Ölçekleme (Zamanlanmış, Yükleme ile), Oto-Yoketme (Maliyet Düşürme), Oto-Deploy
+    * Oto-Kurtarma (Arıza Tespiti, Otomatik Yeniden Başlatma)
+* **Bulut İzleme ve Gözlem (Uptrends & VictorOps)**
+    * Bulut Araçları ile 7/24 Altyapı İzleme
+    * Botlarla Çağrı Yönetimi
+    * Slack, Skype, Jira ile İşbirliği
+* **Bulut Güvenliği**
+    * Bulutu Gizleme (Akamai, CloudFlare)
+    * Güvenlik Kuralları Kontrolü, BPA
+    * İçerik Dağıtımıyla Trafik Ayrımı (CDN)
+    * GeoLocation Kısıtlamaları (GRPR Uyumlulukları)
+    * Bulutla Gelişmiş Güvenlik WAF
+    * Sertifika Yönetimi, Yük Dengeleyicilerde SSL Boşaltma
+    * DOS Koruma
 ---
 
 #### :octocat: Devops
-Automation = Power, we are ready to automate all your IT Processes!
+Otomasyon = Güç, tüm BT İşlemlerinizi otomatikleştirmeye hazırız!
 * **Serverless _(Docker / Kubernetes / Swarm)_**
-    * Hosted Kubernetes / Swarm (Deploy your apps to our Kubernetes / Swarm Clusters)
-    * Kubernetes on AWS, Azure, Google Cloud
-    * Ingress Traffic Management
-    * POD / Node / Deployment Management
-    * Persist Data Management
-    * Kubernetes Monitoring and Logging
-    * Convert Legacy Aplications to Micro Services
-    * Container Based Deployment
-    * Create Helm Charts
-    * DTR, EKS Management
-* **Repository Management**
-    * GitHub (Git Flow, Integration with DevOps Tools, Github Actions)
+    * Hosted Kubernetes / Swarm (Uygulamalarınızı Kubernetes / Swarm Clusters'ımıza dağıtalım.)
+    * AWS, Azure, Google Cloud üzerinde Kubernetes
+    * Giriş Trafik Yönetimi
+    * POD / Node / Deployment Yönetimi
+    * Kalıcı Veri Yönetimi
+    * Kubernetes Monitoring ve Logging
+    * Eski Uygulamaları Mikro Hizmetlere Dönüştürme
+    * Konteyner Tabanlı Dağıtım
+    * Helm Grafikler Oluşturma
+    * DTR, EKS Yönetimi
+* **Repo Yönetimi**
+    * GitHub (DevOps Tools, Github Actions ile Git Flow, Integration)
     * Bitbucket
-    * TFS (Integration with Azure Devops)
+    * TFS (Azure Devops ile Integration)
 * **CI/CD & Pipelines**
     * Jenkins (Jenkins as a Service, Pipeline Design, Integrations)
     * Azure DevOps Tools (Manage Azure TFS and Azure Deployments)
@@ -100,12 +100,12 @@ Automation = Power, we are ready to automate all your IT Processes!
     * Tinfoil (DAST Scans)
     * Load Test / Unit Test
     * Selenium Tests
-* **Automation**
+* **Otomasyon**
     * UC4, Automic
     * HP Operation Orchestration
     * ARA
     * HP SA
-* **Transition & Portfolio Management**
+* **Geçiş ve Portföy Yönetimi**
     * Atlassian Jira
     * Trello
     * Rally
