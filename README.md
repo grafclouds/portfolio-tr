@@ -1,20 +1,21 @@
-## 🌟Graf Clouds Portfolio
-**Graf-Clouds** is an IT Engineering Company, making IT operations simple for **6 years**...
+## 🌟Graf Clouds Portföy
+**Graf-Clouds** BT operasyonlarını **6 yıldır** basitleştirerek yürüten bir BT Mühendislik Şirketidir....
 
-📱On Call Phones: 
- * `+90 542 785 2900` [Turkey, Sales]
- * `+90 541 831 9252` [Turkey, Technical]
- * `+49 176 23703301` [Europe, Technical]
+📱İletişim : 
+ * `+90 542 785 2900` [Türkiye, Satış ve Pazarlama]
+ * `+90 541 831 9252` [Türkiye, Teknik]
+ * `+49 176 23703301` [Avrupa, Teknik]
  
-Please do not hesitate to contact us. Fill the [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) form or email: `info@grafclouds.com`
+Formumuzu doldurarak [contact](https://goo.gl/forms/WNw97mYx4fRonjQl1) veya `info@grafclouds.com`'a
+e-mail atarak bizimle iletişime geçebilirsiniz.
 
 ---
-🚀 **[What We Do?](#what-we-do)**
+🚀 **[Neler Yaparız?](#what-we-do)**
   * **[Cloud's](#️-cloud-consultancy-aws-azure-google-cloud-vmware-cloud-vmc-rackspace-blueocean-ovh)**
   * **[DevOps](#octocat-devops)**
   * **[Site Reliability Engineering](#circus_tent-site-reliability-engineering)**
-  * **[SecOps & Cyber Security](#secops--cyber-security)**
-  * **[Training](Trainings.md)**
+  * **[SecOps & Siber Güvenlik](#secops--cyber-security)**
+  * **[Eğitimler](Trainings.md)**
     * [Amazon Web Services Solutions Associate](Trainings.md#amazon-web-services-solutions-associate)
     * [Microsoft Azure Essentials](Trainings.md#microsoft-azure-essentials)
     * [Google Cloud Fundamentals](Trainings.md#google-cloud-fundamentals)
