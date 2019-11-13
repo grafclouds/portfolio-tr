@@ -11,7 +11,7 @@ e-mail atarak bizimle iletişime geçebilirsiniz.
 
 ---
 🚀 **[Neler Yaparız?](#what-we-do)**
-  * **[Cloud's](#️-cloud-consultancy-aws-azure-google-cloud-vmware-cloud-vmc-rackspace-blueocean-ovh)**
+  * **[Bulut Bilişim Hizmetleri](#️-cloud-consultancy-aws-azure-google-cloud-vmware-cloud-vmc-rackspace-blueocean-ovh)**
   * **[DevOps](#octocat-devops)**
   * **[Site Reliability Engineering](#circus_tent-site-reliability-engineering)**
   * **[SecOps & Siber Güvenlik](#secops--cyber-security)**
@@ -35,7 +35,7 @@ Referanslarımız ve Biten Projelerimiz
    
 
 ## Ne Yaparız?
-#### ☁️ Bulut Danışmanlığı _(AWS, Azure, Google Cloud, VMware Cloud (VMC), RackSpace, BlueOcean, OVH)_
+#### ☁️ Bulut Bilişim Danışmanlığı _(AWS, Azure, Google Cloud, VMware Cloud (VMC), RackSpace, BlueOcean, OVH)_
 Acı çekmeden buluta taşınmaya ve daha az ödeme yapmaya hazır mısınız? 
 * **Bulut Lift & Shift (Amazon Web Services, Azure, Google Cloud)**
     * Bulut Tasarım Altyapısı (Hybrid + With Different Vendors)
@@ -92,7 +92,7 @@ Otomasyon = Güç, tüm BT İşlemlerinizi otomatikleştirmeye hazırız!
     * Azure DevOps Tools (Manage Azure TFS and Azure Deployments)
     * Xebia (XlRelease, XlDeploy)
     * Atlassian Bamboo
-    * Automatic Deployments
+    * Otomatik Deployment
 * **SDLC**
     * SonarQube Analysis (Code Quality Scan)
     * Artifactory Management (Jfrog)
@@ -102,7 +102,7 @@ Otomasyon = Güç, tüm BT İşlemlerinizi otomatikleştirmeye hazırız!
     * Selenium Tests
 * **Otomasyon**
     * UC4, Automic
-    * HP Operation Orchestration
+    * HP Operasyon Orkestrasyonu
     * ARA
     * HP SA
 * **Geçiş ve Portföy Yönetimi**
@@ -114,35 +114,35 @@ Otomasyon = Güç, tüm BT İşlemlerinizi otomatikleştirmeye hazırız!
     * Slack
 ---
 #### :circus_tent: Site Reliability Engineering
-* **Virtualization & Data Stores _(Vmware ESX, Hyper-V, Xen, Proxmox)_**
-    * Deploy Hybrid Cloud (OnPrem-Public)
-    * Design & Deploy Virtual Infrastructure, Datastores
-    * Health Check to Hypervisors
-    * Disaster Recovery (DR to Onperm, DR to Cloud)
-    * Data Replication with EMC Products, Recovery Point, Site Recovery Manager
-* **Microsoft Servers**
+* **Sanallaştırma & Veri Mağazaları _(Vmware ESX, Hyper-V, Xen, Proxmox)_**
+    * Hibrit Bulutu Dağıtımı (OnPrem-Public)
+    * Sanal Altyapı, Veri Merkezleri Tasarlama ve Dağıtımı
+    * Hypervisor'lere Health Check
+    * Afet Kurtarma (DR to Onperm, DR to Cloud)
+    * EMC Ürünleri ile Veri Çoğaltma, Kurtarma Noktası, Site Kurtarma Yöneticisi
+* **Microsoft Sunucuları**
     * Active Directory (BPA, Upgrade, Troubleshoot, GPO)
-    * Messaging Collaborations (Exchange, Office 365)
+    * Mesajlaşma İşbirlikleri (Exchange, Office 365)
     * Skype For Bussiness (VoIP Integrations, BPA, Federations)
-    * Patch and Software Management (WSUS, SCCM)
-* **Open Source Solutions _(Ubuntu, Centos, RHEL, SLES, *BSD)_**
-    * Web Server Optimizations, BPA (IIS, Apache, Nginx)
-    * Account Management - AAA (OpenLDAP, Atlassian Crowd)
+    * Yama ve Yazılım Yönetimi (WSUS, SCCM)
+* **Açık Kaynak Çözümleri _(Ubuntu, Centos, RHEL, SLES, *BSD)_**
+    * Web Sunucu Optimizasyonları, BPA (IIS, Apache, Nginx)
+    * Hesap Yönetimi - AAA (OpenLDAP, Atlassian Crowd)
     * Email (Zimbra, QMail, Exim)
-    * Database Management, HA, Clustering & Optimizations (MsSql, Mysql, MongoDB, PostgreSQL)
-    * Caching and Performance Optimization (Redis, RabbitMQ)
-    * Patch and Software Management (Spacewalk)
+    * Veritabanı Yönetimi, HA, Kümeleme ve Optimizasyonlar (MsSql, Mysql, MongoDB, PostgreSQL)
+    * Önbellek ve Performans Optimizasyonu (Redis, RabbitMQ)
+    * Yama ve Yazılım Yönetimi (Spacewalk)
 * **Monitoring**
-    * Proactive Response with Cloud (Uptrends & VictorOps)
-    * Infrastructure Monitoring (Zabbix, Nagios, MetricBeat)
-    * Application Perfomance Monitoring (New Relic)
-* **Big Data**
+    * Bulutla Proaktif Tepki (Uptrends & VictorOps)
+    * Altyapı İzleme (Zabbix, Nagios, MetricBeat)
+    * Uygulama Performansı İzleme (New Relic)
+* **Büyük Veri**
     * HDFS, HDF, Kafka, Spark, Storm, MapReduce, Hive
     * ELK Stack
     * AWS EMR
 ---
 
-#### 🔑SecOps & Cyber Security
+#### 🔑SecOps & Siber Güvenlik
 * **Firewalls, IPS, Load Balances, WAF**
   * PFSense
   * Juniper
@@ -150,7 +150,7 @@ Otomasyon = Güç, tüm BT İşlemlerinizi otomatikleştirmeye hazırız!
   * Palo Alto
   * Nginx/Nginx Plus
   * Big IP, Netscaler
-* **Email Security**
+* **Email Güvenliği**
   * Spamassassin
   * Iron Port
 * **APT**
@@ -164,16 +164,16 @@ Otomasyon = Güç, tüm BT İşlemlerinizi otomatikleştirmeye hazırız!
   * Netflow, Sflow
   * Continuous Vulnerability Scanner, Nessus
   * Full Packet Capture
-* **Source Code Analysis**
+* **Kaynak Kod Analizi**
   * Manual Code Check
   * Sonar Tests
   * Fortify Checks
 * Hardening
 * Pentesting
-* Best Practice Analysis
+* Best Practice Analizleri
 ---
 
-#### :octocat: Organization & Resumes
+#### :octocat: Organizasyon ve Özgeçmişlerimiz
 - [x] [Ali Ozan Tunc (Dubai)](Resumes): `Founder & General Manager`
 - [x] [Omer Telli (Turkey)](Resumes): `Co-Founder & Country Manager`
 - [x] [Serdar Sarioglu (Turkey & Germany)](Resumes/Serdar-Sarioglu.md): `Senior Site Reliability Engineer, Security Expert, Architect`
@@ -184,7 +184,7 @@ Otomasyon = Güç, tüm BT İşlemlerinizi otomatikleştirmeye hazırız!
 - [x] [Mustafa Cifci (Turkey)](Resumes): `Senior FullStack Software Developer`
 ---
 
-#### 📋 (Some!) References
+#### 📋 (Bazı!) Referanslarımız
 - [x] [Keepnet](http://keepnetlabs.com) `Migrate from Azure to AWS, Cloud Infra Management, Incoming Over 40K Clients`
 - [x] [Wext](http://wext.com) `AWS EKS and Kubernets Projcet, Infra as a Code (gitOps)`
 - [x] [Monotect](https://monotect.com) `Hybris on AWS Project`
@@ -196,12 +196,12 @@ Otomasyon = Güç, tüm BT İşlemlerinizi otomatikleştirmeye hazırız!
 - [x] [Harput Holding](http://harputholding.com.tr) `Infra Redesign, Devops Operations, Cloud Migration, Secops Operations`
 ---
 
-#### 🗿 Technology Partners
+#### 🗿 Teknoloji Ortaklarımız
 - [x] [Monotect](https://monotect.com) `Hybris Integrator`
 - [x] [Supereon](https://supereon.co.uk/) `Networking Company (United Kingdom)`
 ---
 
-#### 🏠 Address
+#### 🏠 Adreslerimiz
 - [x] [Head Office (Turkey)](https://grafclouds.com) `Halkali Mrz. Mh. Kucukcekmece - Istanbul`
 - [x] [Branch Office (Germany)](https://grafclouds.com) `Schluchseestraße 67 13469 - Berlin`
 ---
